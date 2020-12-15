@@ -426,7 +426,7 @@ opacity: .6;
 	/*background-image: url('../images/bg.jpg');*/
 	background-image: url('../bg3.png');
 	background-repeat: repeat;
-	min-height: 775px;
+	/*min-height: 775px;*/
 	float:left;
 	background-size: cover;
 	display: inline-block;
